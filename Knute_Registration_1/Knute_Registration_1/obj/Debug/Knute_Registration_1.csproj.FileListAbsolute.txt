@@ -1,0 +1,12 @@
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\bin\Debug\Knute_Registration_1.exe.config
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\bin\Debug\Knute_Registration_1.exe
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\bin\Debug\Knute_Registration_1.pdb
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.csprojAssemblyReference.cache
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.Properties.Resources.resources
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.csproj.GenerateResource.cache
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.csproj.CoreCompileInputs.cache
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.exe
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.pdb
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\obj\Debug\Knute_Registration_1.frmLogin.resources
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\bin\Debug\Database1.mdf
+C:\Users\skotch\source\repos\Knute_Registration_1\Knute_Registration_1\bin\Debug\Database1_log.ldf
